@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cuarta_app</string>
+    <string name="tvResultado">El resultado es:</string>
+    <string name="edit1">Ingrese primer valor</string>
+    <string name="edit2">Ingrese segundo valor</string>
+    <string name="sw1">Sumar</string>
+    <string name="sw2">Restar</string>
+    <string name="sw3">Multiplicar</string>
+    <string name="sw4">Dividir</string>
+</resources>

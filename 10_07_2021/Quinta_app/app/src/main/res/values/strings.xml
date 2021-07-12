@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quinta_app</string>
+    <string name="edit1">Ingrese el primer número</string>
+    <string name="edit2">Ingrese el segundo número</string>
+    <string name="tvResultado">El resultado es: </string>
+    <string name="btOperar">Operar</string>
+</resources>

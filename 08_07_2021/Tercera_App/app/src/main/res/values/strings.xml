@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tercera_App</string>
+    <string name="tvResultado">El resultado es:</string>
+    <string name="edit1">Ingrese primer valor</string>
+    <string name="edit2">Ingrese segundo valor</string>
+    <string name="ck1">Sumar</string>
+    <string name="ck2">Restar</string>
+    <string name="ck3">Multiplicar</string>
+    <string name="ck4">Dividir</string>
+    <string name="btnOperar">Operar</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Segunda_APP</string>
+    <string name="editNumero1">Ingresar el primer valor</string>
+    <string name="editNumero2">Ingresar el segundo valor</string>
+    <string name="rdSumar">Sumar</string>
+    <string name="tvResultado">El resultado de la operación </string>
+    <string name="rdRestar">Restar</string>
+    <string name="rdMulti">Multiplicar</string>
+    <string name="rdDividir">Dividir</string>
+    <string name="btOperar">Operar </string>
+</resources>

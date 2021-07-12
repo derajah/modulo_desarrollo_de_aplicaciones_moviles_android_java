@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="soy_un_lindo_boton">Soy el botón mamá</string>
+    <string name="soy_el_hijo">Soy el boton hijo</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Segunda_APP</string>
+    <string name="editNumero1">Ingresar el primer valor</string>
+    <string name="editNumero2">Ingresar el segundo valor</string>
+    <string name="btSumar">Sumar</string>
+    <string name="tvResultado">El resultado de la suma es: </string>
+    <string name="btRestar">Restar</string>
+    <string name="tvResultadoRestar">El resultado de la resta es: </string>
+    <string name="btMulti">Multiplicar</string>
+    <string name="tvResultadoM">El resultado de la multipli es: </string>
+    <string name="btDividir">Dividir</string>
+    <string name="tvResultadoD">El resultado de la División es: </string>
+</resources>
