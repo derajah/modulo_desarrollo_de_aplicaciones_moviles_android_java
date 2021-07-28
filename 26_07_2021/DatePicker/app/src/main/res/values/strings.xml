@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="btnFecha"> Seleccione Fecha</string>
+    <string name="btnHora"> Seleccione Hora</string>
+</resources>

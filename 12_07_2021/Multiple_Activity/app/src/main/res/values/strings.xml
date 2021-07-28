@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Multiple_Activity</string>
+    <string name="tvInicio">Probando diferentes activitys</string>
+    <string name="btOperaRadio">Operación con RadioButton</string>
+    <string name="btOperaCheck">Operación con CheckBox</string>
+    <string name="btOperaSwitch">Operación con Switch</string>
+    <string name="btOperaSpinner">Operación con Spinner</string>
+
+    <string name="editNumero1">Ingresar el primer valor</string>
+    <string name="editNumero2">Ingresar el segundo valor</string>
+    <string name="rdSumar">Sumar</string>
+    <string name="rdRestar">Restar</string>
+    <string name="rdMulti">Multiplicar</string>
+    <string name="rdDividir">Dividir</string>
+    <string name="btOperar">Operar </string>
+    <string name="btVolver">Volver </string>
+
+
+    <string name="tvResultado">El resultado es:</string>
+    <string name="edit1">Ingrese primer valor</string>
+    <string name="edit2">Ingrese segundo valor</string>
+    <string name="ck1">Sumar</string>
+    <string name="ck2">Restar</string>
+    <string name="ck3">Multiplicar</string>
+    <string name="ck4">Dividir</string>
+    <string name="btnOperar">Operar</string>
+
+    <string name="sw1">Sumar</string>
+    <string name="sw2">Restar</string>
+    <string name="sw3">Multiplicar</string>
+    <string name="sw4">Dividir</string>
+
+    <string name="tvTitulo">Operaciones</string>
+
+</resources>

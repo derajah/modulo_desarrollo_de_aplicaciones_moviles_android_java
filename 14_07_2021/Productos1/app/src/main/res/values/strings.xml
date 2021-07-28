@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Productos1</string>
+    <string name="editCodigo"> Ingrese código</string>
+    <string name="editNombre"> Ingrese nombre</string>
+    <string name="editPrecio"> Ingrese precio</string>
+    <string name="crear">Crear Producto</string>
+    <string name="buscar">Buscar Producto</string>
+    <string name="modificar">Modificar Producto</string>
+    <string name="eliminar">Eliminar Producto</string>
+</resources>
